@@ -1,7 +1,18 @@
-# Getting Started with Create React App
+# Website mockup with different devices
+<img src="https://i.ibb.co/D8jQ5rK/Screenshot-29.png" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## techonology are uses 
+<li> JavaScript</li>
+<li> React.js</li>
+<li> Html</li>
+<li> CSS</li>
+<li> Firebase</li>
+
+## live site privew 
+
+live :https://xenodochial-allen-c670a2.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
